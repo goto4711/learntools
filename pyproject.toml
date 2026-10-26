@@ -1,0 +1,4 @@
+# Added in the goto4711/learntools fork, see FORK.md.
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
